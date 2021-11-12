@@ -32,6 +32,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "cloud_firestore",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_platform_interface-5.4.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0",
       "packageUri": "lib/",
@@ -62,6 +80,78 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_auth",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_database",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-8.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_database_platform_interface",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database_platform_interface-0.1.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_database_web",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database_web-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_storage",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_storage_platform_interface",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_platform_interface-4.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_storage_web",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/nguyenquang/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -88,6 +178,18 @@
     {
       "name": "get",
       "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/get-4.3.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/nguyenquang/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -272,7 +374,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-11-12T07:56:02.400881Z",
+  "generated": "2021-11-12T09:12:01.001301Z",
   "generator": "pub",
   "generatorVersion": "2.14.3"
 }
